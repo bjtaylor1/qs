@@ -1,13 +1,5 @@
-#include <iostream>
-#include <iomanip>
-#include <vector>
-#include <algorithm>
-#include <cmath>
+#include "stdafx.h"
 
-#include <stdint.h>
-#include <gmp.h>
-#include <gmpxx.h>
- 
 #undef ENABLE_TIMER
 
 #include "timer.h"

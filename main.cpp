@@ -1,12 +1,4 @@
-#include <iostream>
-#include <vector>
-#include <stack>
-#include <ctime>
-#include <math.h>
-#include <stdlib.h>
-#include <stdint.h>
-#include <gmpxx.h>
-
+#include "stdafx.h"
 #include "fermat.h"
 #include "rho.h"
 #include "qs.h"

@@ -1,6 +1,4 @@
-#include <gmpxx.h>
-#include <gmp.h>
-
+#include "stdafx.h"
 #include "fermat.h"
 
 /*

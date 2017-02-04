@@ -1,3 +1,4 @@
+#include "stdafx.h"
 #include "rho.h"
 
 // Interface to the GMP random number functions.

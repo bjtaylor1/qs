@@ -1,12 +1,6 @@
 #ifndef MATRIX_H
 #define MATRIX_H
 
-#include <limits>
-#include <sstream>
-#include <cassert>
-#include <iomanip>
-
-#include <stdint.h>
 
 /**
  * A matrix of bits.
